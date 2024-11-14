@@ -23,7 +23,7 @@ items:
  - SigNoz/signoz
  - uvdesk/community-skeleton
  - CRED-CLUB/synth-android
- - fi-krish/reseter.css
+ - kkrishguptaa/reseter.css
  - pupilfirst/pupilfirst
  - kadalu/kadalu
  - project-sunbird
@@ -49,6 +49,8 @@ items:
  - arnav-kr/json-formatter
  - abhimanyu003/sttr
  - juspay/hyperswitch
+ - nammayatri/nammayatri
+ - kubewall/kubewall
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png

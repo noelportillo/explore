@@ -7,7 +7,6 @@ items:
   - hanad124/furqan-constructions
   - abdinasir-Tman/shaqo-sahal
   - WorkHubSo/WorkHubSo
-  - hanad124/tiktok-video-downloader
   - JUST-4EVER/CAZA-MART
   - hanad124/graadkaabPlatform
   - miirshe/Al-caasima-Hospital-Management-System
@@ -27,7 +26,6 @@ items:
   - ENG-CJ/Freelancing-WebApp
   - aaqyaar/sooyaal-app
   - aaqyaar/ijaar-platform
-  - XudayfiIbra/user-authetications
   - AbdullahiKhalif/iskuxire-web-app
   - MoDev40/quizera
   - aaqyaar/ogaalkoob-app
